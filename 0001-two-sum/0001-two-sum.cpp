@@ -14,6 +14,4 @@ public:
         return ans;
         
     }
-};
-
-//use hash map for O(n)
+};//use hash map for O(n)
