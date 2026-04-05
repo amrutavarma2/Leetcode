@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/amrutavarma2/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/amrutavarma2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/amrutavarma2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
