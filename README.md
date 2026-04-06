@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/amrutavarma2/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/amrutavarma2/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/amrutavarma2/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/amrutavarma2/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/amrutavarma2/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/amrutavarma2/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/amrutavarma2/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/amrutavarma2/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/amrutavarma2/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
