@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amrutavarma2/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/amrutavarma2/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/amrutavarma2/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/amrutavarma2/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/amrutavarma2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Backtracking
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/amrutavarma2/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/amrutavarma2/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
