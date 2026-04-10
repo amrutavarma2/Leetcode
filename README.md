@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/amrutavarma2/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/amrutavarma2/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amrutavarma2/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/amrutavarma2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amrutavarma2/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/amrutavarma2/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/amrutavarma2/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
