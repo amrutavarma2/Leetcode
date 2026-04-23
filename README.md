@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/amrutavarma2/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/amrutavarma2/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
